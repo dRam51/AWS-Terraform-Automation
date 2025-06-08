@@ -1,4 +1,4 @@
-# Terraform-AWS-Project
+# AWS Compute Automation Using Terraform
 This project is a Terraform configuration for provisioning a basic AWS environment to run a virtual machine (EC2 instance) using infrastructure as code.
 
 # What it does
